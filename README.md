@@ -1,6 +1,6 @@
 # Homework Assignment 4
 
-[![.github/workflows/main.yml](https://github.com/PGE323M/assignment4-solution/actions/workflows/main.yml/badge.svg)](https://github.com/PGE323M/assignment4/actions/workflows/main.yml)
+[![.github/workflows/main.yml](https://github.com/PGE323M/assignment4/actions/workflows/main.yml/badge.svg)](https://github.com/PGE323M/assignment4/actions/workflows/main.yml)
 
 Open the [Assignment 4 Jupyter Notebook](assignment4.ipynb) and follow the instructions.
 
